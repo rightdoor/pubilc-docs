@@ -1,3 +1,7 @@
+---
+id: 12345678
+---
+
 <div align="center">
 
 # SimpleDocs
