@@ -1,4 +1,8 @@
 ---
+title: SimpleDocs
+description: 简单的静态文档（Markdown -> HTML）网站生成器，基于 Vue 3 + Vite 构建。
+createdat: 2026-03-02 21:30:56
+updatedat: 2026-03-02 21:31:11
 id: 12345678
 ---
 
