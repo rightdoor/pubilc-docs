@@ -1,6 +1,3 @@
----
-id: 04c6e90f
----
 <div align="center">
 
 # SimpleDocs
