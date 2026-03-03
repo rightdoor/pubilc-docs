@@ -1,8 +1,8 @@
 ---
-title: SimpleDocs
+title: SimpleDocs_English
 description: A simple static documentation (Markdown -> HTML) website generator built with Vue 3 + Vite.
-createdat: 2026-03-02 21:30:56
-updatedat: 2026-03-02 21:31:11
+created: 2026-03-02 21:30:56
+updated: 2026-03-02 21:31:11
 id: 87654321
 ---
 
@@ -13,6 +13,8 @@ id: 87654321
 **Demo: [SimpleDocs](https://simpledocs.endlesssolo.com/)**
 
 A simple static documentation (Markdown -> HTML) website generator built with Vue 3 + Vite.
+
+[中文](./README.md) | English
 
 </div>
 
@@ -26,7 +28,7 @@ A simple static documentation (Markdown -> HTML) website generator built with Vu
 
 ## To-Do
 
-- [ ] Relative path link navigation within Markdown pages
+- [x] Relative path link navigation within Markdown pages
 - [ ] Custom sorting of left menu
 - [ ] Previous/Next page navigation
 - [ ] Add file Git revision history view (?)

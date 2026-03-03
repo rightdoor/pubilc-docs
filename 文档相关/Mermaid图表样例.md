@@ -1,8 +1,8 @@
 ---
 title: Mermaid图表样例
 description: 展示 Mermaid 图表的各种类型和示例
-createdat: 2026-03-02 21:25:33
-updatedat: 2026-03-02 21:31:11
+created: 2026-03-02 21:25:33
+updated: 2026-03-02 21:31:11
 id: 3dcc68a1
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Markdown语法样例
 description: 展示 Markdown 语法的各种类型和示例
-createdat: 2026-03-02 21:16:45
-updatedat: 2026-03-02 21:31:11
+created: 2026-03-02 21:16:45
+updated: 2026-03-02 21:31:11
 id: fd53b8c6
 ---
 

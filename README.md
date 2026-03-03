@@ -1,8 +1,8 @@
 ---
 title: SimpleDocs
 description: 简单的静态文档（Markdown -> HTML）网站生成器，基于 Vue 3 + Vite 构建。
-createdat: 2026-03-02 21:30:56
-updatedat: 2026-03-02 21:31:11
+created: 2026-03-02 21:30:56
+updated: 2026-03-02 21:31:11
 id: 12345678
 ---
 
@@ -13,6 +13,8 @@ id: 12345678
 **演示地址: [SimpleDocs](https://simpledocs.endlesssolo.com/)**
 
 简单的静态文档（Markdown -> HTML）网站生成器，基于 Vue 3 + Vite 构建。
+
+中文 | [English](./README_EN.md)
 
 </div>
 
@@ -27,7 +29,7 @@ id: 12345678
 
 ## 待完成
 
-- [ ] Markdown 页内相对路径链接跳转
+- [x] Markdown 页内相对路径链接跳转
 - [ ] 左侧菜单自定义排序
 - [ ] 上一篇/下一篇跳转
 - [ ] 添加文件 Git 修改历史查看（？）

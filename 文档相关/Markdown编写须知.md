@@ -1,8 +1,8 @@
 ---
 title: Markdown编写须知
 description: SimpleDocs的Markdown编写须知
-createdat: 2026-03-02 21:12:34
-updatedat: 2026-03-02 21:31:11
+created: 2026-03-02 21:12:34
+updated: 2026-03-02 21:31:11
 id: 40c91faf
 ---
 
@@ -12,16 +12,16 @@ id: 40c91faf
 ---
 title: Markdown编写须知
 description: SimpleDocs的Markdown编写须知
-createdat: 2026-03-02 22:22:22
-updatedat: 2026-03-02 22:22:22
+created: 2026-03-02 22:22:22
+updated: 2026-03-02 22:22:22
 id: 40c91faf
 ---
 ```
 
 - title: 文章标题，如果不填写就默认使用文件名
 - description: 文章描述，如果没有就不显示
-- createdat: 文章创建时间，格式为`YYYY-MM-DD HH:mm:ss`，如果没有则不显示
-- updatedat: 文章更新时间，格式为`YYYY-MM-DD HH:mm:ss`，如果没有则不显示
+- created: 文章创建时间，格式为`YYYY-MM-DD HH:mm:ss`，如果没有则不显示
+- updated: 文章更新时间，格式为`YYYY-MM-DD HH:mm:ss`，如果没有则不显示
 - id: 文章ID，没有就会自动生成也可以自己填写（注意不要重复）
 
 ## 内容标题
