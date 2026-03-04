@@ -1,0 +1,20 @@
+[
+  "README.md",
+  {
+    "title": "使用教程",
+    "path": "使用教程",
+    "docs": [
+      "目录菜单排序须知.md",
+      "Markdown编写须知.md"
+    ]
+  },
+  {
+    "title": "语法支持示例",
+    "path": "文档相关",
+    "docs": [
+      "Markdown语法样例.md",
+      "Mermaid图表样例.md"
+    ]
+  },
+  "README_EN.md"
+]
