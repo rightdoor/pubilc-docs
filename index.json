@@ -4,14 +4,14 @@
     "title": "使用教程",
     "docs": [
       "使用教程/目录菜单排序须知.md",
-      "使用教程/Markdown编写须知.md"
-    ]
-  },
-  {
-    "title": "语法支持示例",
-    "docs": [
-      "文档相关/Markdown语法样例.md",
-      "文档相关/Mermaid图表样例.md"
+      "使用教程/Markdown编写须知.md",
+      {
+        "title": "语法支持示例",
+        "docs": [
+          "文档相关/Markdown语法样例.md",
+          "文档相关/Mermaid图表样例.md"
+        ]
+      }
     ]
   },
   "README_EN.md"
